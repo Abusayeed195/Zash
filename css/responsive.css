@@ -1,0 +1,207 @@
+@media only screen and (max-width: 600px) {
+    .hero-bg {
+        border-radius: 0 !important;
+    }
+    .hero-bg-1 {
+        border-radius: 0 !important;
+    }
+    .hero-bg-2 {
+        border-radius: 0 !important;
+    }
+    .banner-text {
+      
+        min-height: 50vh !important;
+       
+    }
+    .text h1 {
+        font-size: 30px !important;
+       
+    }
+    .carf{
+        position: static !important;
+        margin-top: 50px;
+    }
+    .button {
+        
+         width: 100% !important; 
+         padding-top: 20px;
+       
+    }
+    .btn-r a {
+       padding: 0 !important;
+    }
+    .btn-t a {
+        padding: 0 !important;
+     }
+     .card-nav{
+       margin-top: 30px !important;
+        max-width: 90% !important;
+      
+    }
+    .card-text-1 h1::before {
+       
+        top: 50px !important;
+        left: 40px !important;
+        width: 200px !important;
+      
+    }
+    .about-us {
+        text-align: center;
+        padding-bottom: 50px !important;
+    }
+    .offer {
+        position: static;
+        text-align: center;
+        margin-top: 50px;
+    }
+    .offer::after {
+       display: none !important;
+    }
+    .space{
+        width: 100%;
+        max-width: 50%;
+        margin: 0 auto;
+    }
+    .more {
+        width: 100% !important;
+      
+    }
+    .slider{
+        height: auto !important;
+    }
+ h3{
+    font-size: 30px !important;
+ }
+ h2{
+    font-size: 36px  !important;
+ }
+ p{
+    font-size: 18px !important;
+ }
+ .building-wrap-box h2{
+    font-size: 18px !important;
+ }
+ .building-wrap-box p{
+    font-size: 14px !important;
+ }
+ .building-box {
+
+    padding: 0px 9px !important;
+}
+.insight-box-col{
+    margin-top: 20px;
+}
+.coworking-wrap-wrap {
+    margin-top: 20px;
+}
+  }
+
+  @media only screen and (max-width: 900px){
+    .hero-bg {
+        border-radius: 0 !important;
+    }
+    .hero-bg-1 {
+        border-radius: 0 !important;
+    }
+    .hero-bg-2 {
+        border-radius: 0 !important;
+    }
+
+    .banner-text {
+      
+        min-height: 50vh !important;
+       
+    }
+    .text h1 {
+        font-size: 40px !important;
+       
+    }
+    .carf{
+        position: static !important;
+        margin-top: 50px;
+    }
+    .button {
+        
+         width: 100% !important; 
+         padding-top: 20px;
+       
+    }
+    .btn-r a {
+       padding: 0 !important;
+    }
+    .btn-t a {
+        padding: 0 !important;
+     }
+     .card-nav{
+       margin-top: 30px !important;
+        max-width: 90% !important;
+      
+    }
+    .card-text-1 h1::before {
+       
+        top: 50px !important;
+        left: 40px !important;
+        width: 200px !important;
+      
+    }
+    .about-us {
+        text-align: center;
+        padding-bottom: 50px !important;
+    }
+    .offer {
+        position: static;
+        text-align: center;
+        margin-top: 50px;
+    }
+    .offer::after {
+       display: none !important;
+    }
+    .space{
+        width: 100%;
+        max-width: 50%;
+        margin: 0 auto;
+    }
+    .more {
+        width: 100% !important;
+      
+    }
+    .slider{
+        height: auto !important;
+    }
+ h3{
+    font-size: 30px !important;
+ }
+ h2{
+    font-size: 36px  !important;
+ }
+ p{
+    font-size: 18px !important;
+ }
+ .building-wrap-box h2{
+    font-size: 18px !important;
+ }
+ .building-wrap-box p{
+    font-size: 14px !important;
+ }
+ .building-box {
+
+    padding: 0px 9px !important;
+}
+.insight-box-col{
+    margin-top: 20px;
+}
+.coworking-wrap-wrap {
+    margin-top: 20px;
+}
+.creative {
+width: 100%;
+max-width: 300px;
+margin: 0 auto;
+}
+.mission-bg img {
+    height: 100% !important;
+    object-fit: cover;
+    overflow: hidden;
+    width: 100%;
+}
+  }
